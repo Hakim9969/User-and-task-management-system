@@ -1,4 +1,4 @@
-// src/User.ts
+
 
 export class User {
   static nextId = 1;
